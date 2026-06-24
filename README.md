@@ -39,7 +39,7 @@ This project simulates a real GRC consulting engagement — playing the role of 
 
 ## Key Findings (Summary)
 
-- **31% ISO 27001 Annex A compliance** — FinSense AI has no formally established ISMS
+- **ISO 27001 Annex A compliance** — FinSense AI has no formally established ISMS
 - **No human oversight** of AI loan decisions — a mandatory requirement under EU AI Act Article 14 for High Risk AI systems
 - **No bias testing** conducted on the AI model despite training on historical lending data with known discrimination risk
 - **Shared administrative access** across all developers with no MFA or segregation of duties
